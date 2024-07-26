@@ -1,0 +1,23 @@
+1. Cloud Architecture: Design, Implement, and Manage: https://www.cloudskillsboost.google/course_templates/640
+
+2. Build a Data Warehouse with BigQuery: https://www.cloudskillsboost.google/course_templates/624
+
+3. Implement DevOps Workflows in Google Cloud: https://www.cloudskillsboost.google/course_templates/716
+
+4. Develop Serverless Applications on Cloud Run: https://www.cloudskillsboost.google/course_templates/741
+
+5. Develop Serverless Apps with Firebase: https://www.cloudskillsboost.google/course_templates/649
+
+6. Optimize Costs for Google Kubernetes Engine: https://www.cloudskillsboost.google/course_templates/655
+
+7. Perform Predictive Data Analysis in BigQuery: https://www.cloudskillsboost.google/course_templates/656
+
+8. Engineer Data for Predictive Modeling with BigQuery ML: https://www.cloudskillsboost.google/course_templates/627
+
+9. Mitigate Threats and Vulnerabilities with Security Command Center: https://www.cloudskillsboost.google/course_templates/759
+
+10. Develop GenAI Apps with Gemini and Streamlit: https://www.cloudskillsboost.google/course_templates/978
+
+11. Use Functions, Formulas, and Charts in Google Sheets: https://www.cloudskillsboost.google/course_templates/776
+
+12. Implement CI/CD Pipelines on Google Cloud: https://www.cloudskillsboost.google/course_templates/691
